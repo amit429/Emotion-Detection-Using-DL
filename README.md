@@ -7,7 +7,7 @@ Problem Statement 1 : Analyze Placement Data<br/>
 Dataset Link : https://www.kaggle.com/datasets/revelation2k23/brain-dead-placement-data<br/>
 Project Link : https://drive.google.com/drive/folders/1aB9Z6frlz3-F2_P32pg5TF7YLMiJXpKZ?usp=sharing
 
-Problem Statement 2 : Analyze Placement Data<br/>
+Problem Statement 2 : Emotion Detection<br/>
 Dataset Link : https://www.kaggle.com/datasets/revelation2k23/brain-dead-emotion-detection<br/>
 Project Link : https://drive.google.com/drive/folders/1A9kf-QhPwmy8e-TBGGBah0DShHsXbz6O?usp=sharing
 
